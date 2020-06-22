@@ -3,11 +3,11 @@ Designed a convolutional neural network with 2 convolution layers and 1 fully co
 
 The various tasks completed in this project include:
 - Task 1: Import Libaries<br>
--Import essential modules and helper functions from NumPy, Matplotlib, and Keras.<br>
+- Import essential modules and helper functions from NumPy, Matplotlib, and Keras.<br>
 
 - Task 2: Load and Preprocess SETI Data<br>
-Display 2D spectrograms using Matplotlib.<br>
-Reshape the input data with NumPy.<br>
+- Display 2D spectrograms using Matplotlib.<br>
+- Reshape the input data with NumPy.<br>
 
 - Task 3: Create Training and Validation Data Generators<br>
 Generate batches of tensor image data with real-time data augmentation.<br>
