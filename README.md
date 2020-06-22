@@ -28,4 +28,4 @@ The various tasks completed in this project include:
 
 - Task 7: Evaluate the Model<br>
   - Evaluate the CNN by invoking the model.fit() method.<br>
-  - Obtain the classification report to note the precision and recall of your classifier.<br>
+  - Obtain the classification report to note the precision and recall of the classifier.<br>
